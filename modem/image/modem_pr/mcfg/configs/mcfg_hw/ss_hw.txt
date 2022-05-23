@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/kamorta/la/7+7_mode/sr_ssss/mcfg_hw.mbn

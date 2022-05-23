@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/kamorta/la/7+7_mode/jp_dsds/mcfg_hw.mbn
